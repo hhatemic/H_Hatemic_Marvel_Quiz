@@ -11,9 +11,8 @@ Clone the project, <code>cd</code> to your directory/download, and run the game.
 
 ### Rules
 
-1. Think of any of the 5 Heros below:
+1. Think of any of the 4 Heros below:
 	- Spider-Man
-	- Wolverine
 	- Hulk
 	- Thanos
 	- Galactus
@@ -39,5 +38,9 @@ Enjoy!
 
 ### License 
 MIT
+
+### Credits
+Addy Koder [Video](https://www.youtube.com/watch?v=lOfyN7zFI5s)
+
 
 Quiz created by Hamza Hatemic for the Mulitmedia Authoring course of Interactive Media Design.
