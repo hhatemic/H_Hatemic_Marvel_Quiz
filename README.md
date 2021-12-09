@@ -1,6 +1,8 @@
+![Marvel Quiz Banner](marvel-superhero-quiz.jpg)
+
 ## Welcome to the Marvel Superhero Quiz!
 
-Think of any of the 5 Marvel Characters below, and the game will try to figure out if it can correctly guess which one you picked!
+Think of any of the 6 Marvel Characters in the quiz, and the game will try to figure out if it can correctly guess which one you picked!
 
 ### Prerequisites
 
@@ -11,17 +13,21 @@ Clone the project, <code>cd</code> to your directory/download, and run the game.
 
 ### Rules
 
-1. Think of any of the 4 Heros below:
+1. Think of any of the 6 Heros below:
 	- Spider-Man
-	- Hulk
+	- The Hulk
 	- Thanos
 	- Galactus
+	- Thor
+	- Deadpool
 
-2. A series of 4 questions will be asked:
+2. A series of 6 questions will be asked:
+	- Does your character have a weapon?
 	- Does your character wear the colour red often?
 	- Are they considered a Superhero?
-	- Is your character bigger than the average Human?
+	- Is your character big?
 	- Do they have a Mask?
+	- Do they have a high kill count?
 	(Make sure you are honest with your answers, or the results may not be accurate!)
 
 3. Answer the questions with a Yes [Y] or No [N]
@@ -40,7 +46,7 @@ Enjoy!
 MIT
 
 ### Credits
-Addy Koder [Video](https://www.youtube.com/watch?v=lOfyN7zFI5s)
-
+- Addy Koder [Video](https://www.youtube.com/watch?v=lOfyN7zFI5s)
+- [Google Images](https://www.google.com/imghp?hl=en) for [Picture](https://cdn.thelivemirror.com/wp-content/uploads/2019/10/marvel-superhero-quiz.jpg) above.
 
 Quiz created by Hamza Hatemic for the Mulitmedia Authoring course of Interactive Media Design.

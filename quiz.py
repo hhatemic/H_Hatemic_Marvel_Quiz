@@ -1,1 +1,1 @@
-from components import quizQuestionsResults
+from components import quizGame
