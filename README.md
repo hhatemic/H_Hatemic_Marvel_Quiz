@@ -1,4 +1,4 @@
-![Marvel Quiz Banner](marvel-superhero-quiz.jpg)
+![alt text](images\marvel-superhero-quiz.jpg)
 
 ## Welcome to the Marvel Superhero Quiz!
 
