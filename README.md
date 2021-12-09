@@ -1,5 +1,3 @@
-![alt text](images\marvel-superhero-quiz.jpg)
-
 ## Welcome to the Marvel Superhero Quiz!
 
 Think of any of the 6 Marvel Characters in the quiz, and the game will try to figure out if it can correctly guess which one you picked!
